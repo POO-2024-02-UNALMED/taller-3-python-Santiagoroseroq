@@ -1,6 +1,6 @@
-from televisores.tv import TV
+from televisores.TV import TV
 from televisores.marca import Marca
-from televisores.control import Control
+from televisores.Control import Control
 
 
 def testAtributosMarca():
